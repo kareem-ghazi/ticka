@@ -1,0 +1,3 @@
+# Ticka
+
+Ticka is a Telegram bot that leverages AI to generate interactive poll quizzes from PDFs, images, and text files. Supporting formats like PDF, PNG, JPEG, and TXT, Ticka uses OpenAI via LangChain to create multiple-choice, fill-in-the-blank, and true/false questions. After each quiz, users receive a performance summary, and the bot offers multilingual support for a broader audience. The project is organized into modular components for preprocessing, AI-powered question generation, and Telegram bot integration.  
